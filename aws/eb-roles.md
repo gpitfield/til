@@ -10,7 +10,8 @@ a set of default permissions. You may need to add additional permissions to thos
 * If you're using private docker repos and need to authenticate, e.g. to docker, and have stored your credentials in S3 then 
 you need S3ReadAccess for the ?? role
 * The `ec2-role` needs container service privileges, along the lines of
-```{
+```json
+{
     "Version": "2012-10-17",
     "Statement": [
         {
@@ -36,6 +37,7 @@ you need S3ReadAccess for the ?? role
             "Resource": "arn:aws:s3:::elasticbeanstalk-*/resources/environments/logs/*"
         }
     ]
-}```
+}
+```
 Full disclosure: I have not verified whether **all** of those privileges or only a subset are required.
 * If you want to read instance tags, you'll also need EC2FullAccess or EC2ReadOnlyAccess
