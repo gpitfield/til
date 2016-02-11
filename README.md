@@ -7,8 +7,8 @@ and don't want to forget.
 *Inspired by [Josh Branchaud's til](https://github.com/jbranchaud/til)*
 
 # Categories
-* [AWS](#AWS)
-* [Markdown](#Markdown)
+* [AWS](#aws)
+* [Markdown](#markdown)
 
 ### AWS
 - [Elastic Beanstalk roles](aws/eb-roles.md)
