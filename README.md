@@ -12,6 +12,7 @@ and don't want to forget.
 
 ### AWS
 - [Elastic Beanstalk roles](aws/eb-roles.md)
+- [Elastic Beanstalk logs](aws/eb-logs.md)
 
 
 ### Markdown
