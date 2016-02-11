@@ -16,4 +16,4 @@ and don't want to forget.
 
 
 ### Markdown
-- [A nice cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that's better than the manual.
+- [A nice cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
