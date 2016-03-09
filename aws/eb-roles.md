@@ -5,7 +5,7 @@
 AWS seems to always create roles without adequate permissions when deploying multi-container docker environments. This
 may well also be the case when using the Elastic Container Service, though I haven't checked.
 
-By default EB creates two roles, the `aws-elasticbeanstalk-ec2-role` and the `aws-elasticbeanstalk-service-role`, with
+By default EB creates two IAM roles, the `aws-elasticbeanstalk-ec2-role` and the `aws-elasticbeanstalk-service-role`, with
 a set of default permissions. You may need to add additional permissions to the `aws-elasticbeanstalk-ec2-role` role as follows:
 * `ec2-role` needs **container service privileges**, along the lines of
 

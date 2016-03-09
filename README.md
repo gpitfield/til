@@ -14,6 +14,8 @@ and don't want to forget.
 - [Elastic Beanstalk roles](aws/eb-roles.md)
 - [Elastic Beanstalk logs](aws/eb-logs.md)
 
+### iOS
+- [Bundle Display Name](ios/bundle-display-name.md)
 
 ### Markdown
 - [A nice cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
