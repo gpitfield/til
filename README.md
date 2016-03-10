@@ -8,6 +8,8 @@ and don't want to forget.
 
 # Categories
 * [AWS](#aws)
+* [iOS](#ios)
+* [Linux](#linux)
 * [Markdown](#markdown)
 
 ### AWS
@@ -16,6 +18,9 @@ and don't want to forget.
 
 ### iOS
 - [Bundle Display Name](ios/bundle-display-name.md)
+
+### Linux
+- [envsubst](linux/envsubst) is greedy
 
 ### Markdown
 - [A nice cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
