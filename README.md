@@ -20,7 +20,7 @@ and don't want to forget.
 - [Bundle Display Name](ios/bundle-display-name.md)
 
 ### Linux
-- [envsubst](linux/envsubst) is greedy
+- [envsubst](linux/envsubst.md) is greedy
 
 ### Markdown
 - [A nice cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
