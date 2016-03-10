@@ -1,6 +1,6 @@
 # envsubst is greedy
 
-##### Source: `pain and suffering, minor`
+##### Source: `pain and suffering (minor)`
 
 Sadly, nginx does not provide access to Environment variables in its config by default. Thus, if you were wanting to pull deployment information from the Env, you're basically out of luck, unless you want to get [quite hacky][1].
 
