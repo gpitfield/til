@@ -15,6 +15,7 @@ and don't want to forget.
 ### AWS
 - [Elastic Beanstalk roles](aws/eb-roles.md)
 - [Elastic Beanstalk logs](aws/eb-logs.md)
+- [RDS Postgres best practices](aws/rds-psql.md)
 
 ### iOS
 - [Bundle Display Name](ios/bundle-display-name.md)
