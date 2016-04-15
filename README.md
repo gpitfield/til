@@ -11,6 +11,7 @@ and don't want to forget.
 * [iOS](#ios)
 * [Linux](#linux)
 * [Markdown](#markdown)
+* [Go](#go)
 
 ### AWS
 - [Elastic Beanstalk roles](aws/eb-roles.md)
@@ -25,3 +26,6 @@ and don't want to forget.
 
 ### Markdown
 - [A nice cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Go
+- Don't forget to [`go get -u`](go/update.md)
